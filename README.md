@@ -57,7 +57,7 @@ This project performs end-to-end sentiment analysis on restaurant reviews collec
 |---|---|---|
 | Punjabi Kitchen | Indian, Punjabi, North Indian | Budget |
 | Grill and Chill Bar and Restaurant | Chinese, Indian, Continental, Bar | Mid-range |
-| Frangipani Restaurant (Pal Grove Suites) | Continental, Indian, Multi-cuisine | Premium |
+| Frangipani Restaurant (Palm Grove Suites) | Continental, Indian, Multi-cuisine | Premium |
 | Hotel New Sikkim Restaurant | Sikkimese, Indian, Tibetan | Budget |
 | Majhitar Dhaba | Indian, Roadside | Budget |
 | Rangpo River Cafe | Cafe, Continental, Snacks | Mid-range |
