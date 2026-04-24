@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -323,5 +323,6 @@ MIT License. Free to use for educational purposes.
 ---
 
 *Built for NLP Assignment — Text Analytics | Majhitar, East Sikkim, India*
-#   r e s t a u r a n t _ s e n t i m e n t _ m a j h i t a r  
+#   r e s t a u r a n t _ s e n t i m e n t _ m a j h i t a r 
+ 
  
