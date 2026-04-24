@@ -118,7 +118,7 @@ restaurant_sentiment_majhitar/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/restaurant_sentiment_majhitar.git
+git clone https://github.com/Sreejoy2024/restaurant_sentiment_majhitar.git
 cd restaurant_sentiment_majhitar
 ```
 
