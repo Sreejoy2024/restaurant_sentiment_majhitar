@@ -1,0 +1,203 @@
+[
+  {
+    "name": "Punjabi Kitchen",
+    "address": "31a NH10 Highway, Majhitar, Majitar 737136",
+    "cuisine": [
+      "Indian",
+      "Punjabi",
+      "North Indian"
+    ],
+    "specialty": [
+      "Tandoori Chicken",
+      "Aloo Paratha",
+      "Dal Makhani",
+      "Veg Biryani",
+      "Egg Fried Rice"
+    ],
+    "price_range": "budget",
+    "rating_avg": 4.2,
+    "tags": [
+      "vegetarian_friendly",
+      "spicy",
+      "hearty",
+      "quick_service"
+    ]
+  },
+  {
+    "name": "Grill and Chill Bar and Restaurant",
+    "address": "Lower Majhitar Opposite Cottage, Majitar 737136",
+    "cuisine": [
+      "Chinese",
+      "Indian",
+      "Continental",
+      "Bar"
+    ],
+    "specialty": [
+      "Grilled Chicken",
+      "Momos",
+      "Fried Rice",
+      "Cocktails",
+      "BBQ"
+    ],
+    "price_range": "mid-range",
+    "rating_avg": 3.8,
+    "tags": [
+      "bar",
+      "grilled",
+      "dinner",
+      "late_night",
+      "non_veg"
+    ]
+  },
+  {
+    "name": "Frangipani Restaurant (Pal Grove Suites)",
+    "address": "Pal Grove Suites Inn & Spa, Majhitar, Sikkim",
+    "cuisine": [
+      "Continental",
+      "Indian",
+      "Multi-cuisine"
+    ],
+    "specialty": [
+      "Pasta",
+      "Grilled Fish",
+      "Thali",
+      "Desserts",
+      "Cheesecake"
+    ],
+    "price_range": "premium",
+    "rating_avg": 4.5,
+    "tags": [
+      "fine_dining",
+      "spa_resort",
+      "desserts",
+      "cheesy",
+      "scenic_view"
+    ]
+  },
+  {
+    "name": "Hotel New Sikkim Restaurant",
+    "address": "NH10 Main Road, Majhitar, Sikkim",
+    "cuisine": [
+      "Sikkimese",
+      "Indian",
+      "Tibetan"
+    ],
+    "specialty": [
+      "Momos",
+      "Thukpa",
+      "Gundruk",
+      "Dal Bhat",
+      "Chowmein"
+    ],
+    "price_range": "budget",
+    "rating_avg": 3.9,
+    "tags": [
+      "local_cuisine",
+      "authentic",
+      "vegetarian_friendly",
+      "breakfast"
+    ]
+  },
+  {
+    "name": "Majhitar Dhaba",
+    "address": "Near Bus Stand, Majhitar, Sikkim 737136",
+    "cuisine": [
+      "Indian",
+      "Roadside",
+      "Desi"
+    ],
+    "specialty": [
+      "Rajma Rice",
+      "Paratha",
+      "Tea",
+      "Omelette",
+      "Maggi"
+    ],
+    "price_range": "budget",
+    "rating_avg": 3.6,
+    "tags": [
+      "cheap",
+      "quick_bite",
+      "breakfast",
+      "traveler_friendly"
+    ]
+  },
+  {
+    "name": "Rangpo River Caf\u00e9",
+    "address": "Riverside, Near Majhitar, East Sikkim",
+    "cuisine": [
+      "Caf\u00e9",
+      "Continental",
+      "Snacks"
+    ],
+    "specialty": [
+      "Coffee",
+      "Sandwiches",
+      "Brownies",
+      "Cheesecake",
+      "Pasta"
+    ],
+    "price_range": "mid-range",
+    "rating_avg": 4.3,
+    "tags": [
+      "cafe",
+      "river_view",
+      "desserts",
+      "cheesy",
+      "romantic",
+      "scenic"
+    ]
+  },
+  {
+    "name": "Teesta Valley Food Court",
+    "address": "NH10 Highway, Majhitar Junction, Sikkim",
+    "cuisine": [
+      "Fast Food",
+      "Indian",
+      "Chinese",
+      "Snacks"
+    ],
+    "specialty": [
+      "Burgers",
+      "Pizza",
+      "Rolls",
+      "Momos",
+      "Ice Cream"
+    ],
+    "price_range": "budget",
+    "rating_avg": 3.7,
+    "tags": [
+      "fast_food",
+      "family_friendly",
+      "desserts",
+      "ice_cream",
+      "snacks"
+    ]
+  },
+  {
+    "name": "Hotel Majhitar Grand Dining",
+    "address": "Grand Hotel, Main Road, Majhitar, Sikkim",
+    "cuisine": [
+      "Multi-cuisine",
+      "Indian",
+      "Chinese",
+      "Continental"
+    ],
+    "specialty": [
+      "Buffet",
+      "Fried Rice",
+      "Butter Chicken",
+      "Paneer Dishes",
+      "Dessert Spread"
+    ],
+    "price_range": "premium",
+    "rating_avg": 4.1,
+    "tags": [
+      "buffet",
+      "family_friendly",
+      "cheesy",
+      "desserts",
+      "vegetarian_friendly"
+    ]
+  }
+]
